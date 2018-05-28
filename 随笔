@@ -1,0 +1,7 @@
+
+### 在目标检测经典框架Faster R-CNN中，<br>
+### 如何在训练和测试中根据RPN的输出选择roi进行分类与边框回归是比较有技巧的。<br>
+### 本篇博客逐行解析了Faster R-CNN中如何根据RPN输出的分类分数选择roi并为选出的roi计算类别标签与坐标回归标签.<br>
+### 详询链接：
+https://blog.csdn.net/jiongnima/article/details/80478597
+
