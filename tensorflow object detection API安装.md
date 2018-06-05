@@ -1,3 +1,6 @@
+## 下载TensorFlow Model模型库
+https://github.com/tensorflow/models
+下载完后解压
 ## Protobuf 编译（非常重要）
   tensorflow Object Detection API 用 Protobufs 来配置模型和训练参数. 在用这个框架之前,必须先编译Protobuf 库，切换到这个目录下： tensorflow/models/research/。<br>
   
