@@ -28,4 +28,4 @@
     source ~/.bashrc
 ## 测试
     python object_detection/builders/model_builder_test.py
-   ![image]()
+   ![image](https://github.com/Erikfather/learn_project/blob/master/2018-06-05%2021-57-54%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
